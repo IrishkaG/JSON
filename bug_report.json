@@ -10,12 +10,12 @@
 "Launch Google Chrom",
 "Go to https://rozetka.com.ua"],
 "Steps to reproduce":[
-"Press the "Каталог" button.",
-"Select category "Ноутбуки и компьютеры", 
-"click on link "Ноутбуки" or click on picture above link.",
-"choose in the sidebar "Huawai (12)""],
+"Press the <Каталог> button.",
+"Select category <Ноутбуки и компьютеры>", 
+"click on link <Ноутбуки> or click on picture above link.",
+"choose in the sidebar <Huawai (12)"],
 "Actual result":
 "the page with 11 offers  of the Huawai laptop open.",
-"Attachments":"[]"
+"Attachments":""
 "Expected result": "the page with 12 offers  of the Huawai laptop opens."
 }}
